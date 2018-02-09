@@ -6,3 +6,6 @@ Some interesting code fragments to please
 
 2. Baidu_Map_API:
   give somewhere ,  and the code will give you an exact position of it.
+  
+3. Download_Photos:
+  we take use of a loophole of the HIT dean office's website, with which we can download any HIT student's photo. Emmm, i just help my friend find her girl's photo. LUL.
