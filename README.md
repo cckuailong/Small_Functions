@@ -12,3 +12,9 @@ Some interesting code fragments to please
 3. Download_Photos:
   
   we take use of a loophole of the HIT dean office's website, with which we can download any HIT student's photo. Emmm, i just help my friend find her girl's photo. LUL.
+  
+4. face_detect:
+
+  use C++ with OpenCV to detect the face in a picture, and cut out of it.
+  myFace: open the PC's camera, and then get lots of your pictures. the program then detect your face exactly
+  otherFace: use other person's picture to detect
