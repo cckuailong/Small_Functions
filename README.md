@@ -19,3 +19,7 @@ Some interesting code fragments to please
   use C++ with OpenCV to detect the face in a picture, and cut out of it.
   myFace: open the PC's camera, and then get lots of your pictures. the program then detect your face exactly
   otherFace: use other person's picture to detect
+  
+5. Auto_Login_with_Visidate
+
+  Some website's login page has the identify code, and it's difficult to use auto login script(like requests, urlib2 and so on). We use selenium to simulate the broswer and recognize the identify code. What's more, we get the alert result info, and you can use the script to brute force some website login page with identify code.
