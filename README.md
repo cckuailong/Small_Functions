@@ -23,3 +23,7 @@ Some interesting code fragments to please
 5. Auto_Login_with_Visidate
 
   Some website's login page has the identify code, and it's difficult to use auto login script(like requests, urlib2 and so on). We use selenium to simulate the broswer and recognize the identify code. What's more, we get the alert result info, and you can use the script to brute force some website login page with identify code.
+
+6. wechat_boom:
+
+  Select your friends and the words u want to tell them, then boom their wechat program!! The version is the gui, it's convinient to process the attack. 
