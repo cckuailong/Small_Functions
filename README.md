@@ -27,3 +27,7 @@ Some interesting code fragments to please
 6. wechat_boom:
 
   Select your friends and the words u want to tell them, then boom their wechat program!! The version is the gui, it's convinient to process the attack. 
+  
+7. Fb_leak_via_CSS:
+
+  Use the the CSS function of mix-blend-mode and the vulnerability of the Chrome(v49 -- v63) or Firefox(v49 -- v50), the script can read the name, head sculpture and website you like on your Facebook. More about it, see https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/
