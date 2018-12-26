@@ -32,3 +32,7 @@ Some interesting code fragments to please
 
   Use the the CSS function of mix-blend-mode and the vulnerability of the Chrome(v49 -- v63) or Firefox(v49 -- v50), the script can read the name, head sculpture and website you like on your Facebook. More about it, see https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/
   To test the result, I provide a website to test the attack. http://www.lovebear.top/fb_leak_general_poc.html
+
+8. Github_auoto_star:
+
+  Gitstar is a website where pepople can star each other conviniently. If we want to star a lot of repetories, we need a lot of time. The tool is used to automatelly get the list of the repos and star them in a very fast way.
