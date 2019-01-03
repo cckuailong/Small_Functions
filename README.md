@@ -36,3 +36,7 @@ Some interesting code fragments to please
 8. Github_auoto_star:
 
   Gitstar is a website where pepople can star each other conviniently. If we want to star a lot of repetories, we need a lot of time. The tool is used to automatelly get the list of the repos and star them in a very fast way.
+
+9. CrackOffice:
+
+  CrackOffice is a tool to get the password of the Encrypted Office files(word, excel and so on) with the method of violent crack. You can use the default password dictionary. Or you can customize your own dictionary. It's amazing!
