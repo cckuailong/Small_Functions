@@ -1,0 +1,17 @@
+['aynameid', 'ayusername', 'aypassword', 'aymail', 'ayqq', 'aytel', 'ayshenfenzh
+eng', 'ayshoukuanfs', 'ayjiesuanms', 'aybank', 'ayshoukuanid', 'aytrueuser', 'ay
+jibie', 'aydata', 'aylastdata', 'ayip', 'aylastip', 'ayyue', 'ayxiaofei', 'aydon
+gjie', 'ayusersuo', 'aylogcishu', 'ayjifen', 'ayshenhe', 'aydianka', 'aywebname'
+, 'ayweburl', 'aychengjiao', 'aymibao1', 'aymibaoda1', 'aymibao2', 'aymibaoda2',
+ 'aygename', 'aymibaoka', 'ayanquan', 'ayusermiaoshu', 'ayisxiaobao', 'ayisxiaoj
+in', 'ayapiyinjian', 'ayyinjianfd', 'ayljjs', 'ayispay', 'aytxsy', 'aymd5', 'ayi
+smd5', 'ayisjssuo', 'ayisdaili', 'aygoodurl', 'aymasterid', 'ayaisalipayfz', 'ay
+alipayyu', 'ayurlno', 'istelrz', 'ismailrz', 'xbdate', 'mdulipa', 'mailbj', 'jgo
+odsum', 'isalipayguan', 'aybeizhu', 'ischengxin', 'isyaoqing', 'isalihy', 'isjih
+uo', 'aybiaozhu', 'isvipid', 'smssum', 'vipdate', 'naiqiandate', 'kamiku', 'wxop
+enid', 'tsmaichu', 'tskucun', 'suijimd5', 'flku', 'spku', 'ddku', 'cwku', 'rzku'
+, 'isjiekou', 'istixian', 'iswappay', 'jjmoney', 'isgzh', 'isbutishi', 'isjiaji'
+, 'tousulv', 'moban', 'dclogo', 'dclname1', 'dclname2', 'dclname3', 'dclink1', '
+dclink2', 'dclink3', 'dcqq', 'dcerweima', 'ayweixinid', 'ayweixinpic', 'ayisweix
+inok', 'kfwxopenid', 'kfqqopenid', 'isbuylog', 'nobuyid', 'isnoanlink', 'tanchua
+ng', 'isyidiip', 'lastjstime', 'lastjsyu', 'xblast', 'isptbuy']

