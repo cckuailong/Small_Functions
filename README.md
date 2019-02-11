@@ -44,3 +44,7 @@ Some interesting code fragments to please
 10. iuka.cn:
 
   Some vunerable websites' Poc experience. That's cool! This is for www.iuka.cn, i have got all of the database of it.
+
+11. instant:
+
+  Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
