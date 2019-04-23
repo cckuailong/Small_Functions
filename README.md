@@ -48,3 +48,7 @@ Some interesting code fragments to please
 11. instant:
 
   Make your site’s pages instant in 1 minute and improve your conversion rate by 1%.
+  
+12. HuaweiAttack:
+
+  Poc of Huawei Talent Summit URL Password Attack Vulnerability.
