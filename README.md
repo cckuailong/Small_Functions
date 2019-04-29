@@ -52,3 +52,7 @@ Some interesting code fragments to please
 12. HuaweiAttack:
 
   Poc of Huawei Talent Summit URL Password Attack Vulnerability.
+  
+13. IPv6 Config:
+
+  Automatelly config IPv6 on Windows. Use the Administrator previledge to run the bat file.
