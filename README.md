@@ -60,3 +60,7 @@ Some interesting code fragments to please
 14. ssh_rproxy
 
   create reverse proxy via ssh
+
+15. Controll_ZK
+
+  controll all slaves on master, start/stop/status
